@@ -1,0 +1,9 @@
+{
+  "name": "PhotonStockExchange",
+  "description": "Trade solar sails for energy coins at each system rate; coins buy sails or critical photons. Prices update every 10 min and differ by system. | 光子证券交易所：太阳帆与能量币按星系汇率兑换，能量币可换太阳帆或临界光子；价格每10分钟涨跌、星系各异。",
+  "version_number": "0.1.1",
+  "dependencies": [
+    "CommonAPI-CommonAPI-1.6.7"
+  ],
+  "website_url": ""
+}

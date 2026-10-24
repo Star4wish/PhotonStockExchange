@@ -1,0 +1,11 @@
+{
+  "name": "DSP_StockExchange",
+  "description": "Belt-fed energy-coin exchange terminal: buy/sell coins against solar sails at per-star-system prices that refresh every 5 minutes. Uses the vanilla fractionator model and prefab.",
+  "version_number": "0.1.0",
+  "dependencies": [
+    "CommonAPI-CommonAPI-1.6.7",
+    "xiaoye97-LDBTool-2.0.0"
+  ],
+  "website_url": "",
+  "FullName": "DSP_StockExchange"
+}
